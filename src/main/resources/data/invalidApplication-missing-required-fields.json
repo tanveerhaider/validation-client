@@ -1,0 +1,11 @@
+{
+  "primaryApplicant": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "address": {
+      "city": "New York",
+      "state": "NY"
+    }
+  },
+  "termsAccepted": false
+}

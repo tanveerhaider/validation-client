@@ -1,0 +1,33 @@
+{
+  "applicationType": "NEW_ACCOUNT",
+  "primaryApplicant": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "ssn": "123-45-6789",
+    "dateOfBirth": "1980-01-01",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001"
+    },
+    "phoneNumber": "+1234567890",
+    "email": "john.doe@example.com",
+    "annualIncome": 75000.00
+  },
+  "businessInformation": {
+    "businessName": "Doe Enterprises",
+    "taxId": "12-3456789",
+    "businessStartDate": "2010-01-01",
+    "annualRevenue": 500000.00,
+    "numberOfEmployees": 10,
+    "businessAddress": {
+      "street": "456 Business Ave",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001"
+    }
+  },
+  "requestedCreditLimit": 25000.00,
+  "termsAccepted": true
+}
